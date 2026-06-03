@@ -1,2 +1,21 @@
 # Info-para-avatar
-Informacion, libros y documentos que le son de ayuda para mi avatar
+
+Información, libros y documentos que sirven de ayuda para mi avatar (la persona ideal que consume mi contenido y se convierte en mi cliente ideal).
+
+Este repositorio reúne el material fuente, la definición de mi avatar, la estrategia de contenido y las plantillas de guiones, todo en un mismo lugar.
+
+## Estructura del repositorio
+
+| Carpeta | Qué contiene |
+|---|---|
+| [`avatar/`](./avatar) | Descripción de mi avatar / cliente ideal (persona). |
+| [`estrategia/`](./estrategia) | Estrategia de contenido: objetivos, canales, líneas temáticas. |
+| [`guiones/`](./guiones) | Estructuras y plantillas de guiones reutilizables. |
+| [`libros/`](./libros) | Libros y documentos fuente (material de referencia). |
+| [`sintesis/`](./sintesis) | Ideas y resúmenes extraídos de los libros fuente. |
+
+## Cómo se usa
+
+1. Los **libros** se guardan en `libros/` como material de referencia.
+2. De ellos se extraen ideas y resúmenes hacia `sintesis/`.
+3. Esas ideas, junto con la definición del **avatar** y la **estrategia**, alimentan los **guiones** de contenido.
