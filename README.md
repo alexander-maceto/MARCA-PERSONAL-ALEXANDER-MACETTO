@@ -1,4 +1,4 @@
-# Info-para-avatar
+# MARCA PERSONAL ALEXANDER MACETTO
 
 Información, libros y documentos que sirven de ayuda para mi avatar (la persona ideal que consume mi contenido y se convierte en mi cliente ideal).
 
