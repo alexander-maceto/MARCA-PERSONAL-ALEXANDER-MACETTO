@@ -17,6 +17,8 @@ Este repositorio reúne el material fuente, la definición de mi avatar, la estr
 
 ## Cómo se usa
 
-1. Los **libros** se guardan en `libros/` como material de referencia.
-2. De ellos se extraen ideas y resúmenes hacia `sintesis/`.
+1. Los **libros** se guardan en una de las dos bases de referencia:
+   - [`libros_avatar/`](./libros_avatar) → para entender a mi avatar y sus problemas.
+   - [`libros_marca_personal/`](./libros_marca_personal) → para construir mi marca y mi contenido.
+2. De ellos se extraen ideas y resúmenes hacia [`sintesis/`](./sintesis).
 3. Esas ideas, junto con la definición del **avatar** y la **estrategia**, alimentan los **guiones** de contenido.
