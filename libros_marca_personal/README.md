@@ -1,7 +1,3 @@
-# README.md
-
-# Biblioteca Estratégica de Marca Personal
-
 ## Propósito
 
 Esta carpeta contiene fuentes de conocimiento estratégico relacionadas con la construcción, posicionamiento, crecimiento y monetización de marcas personales.
