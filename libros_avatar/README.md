@@ -1,5 +1,3 @@
-# README.md
-
 # Biblioteca de Conocimiento
 
 ## Propósito
