@@ -1,0 +1,469 @@
+# README.md
+
+# Biblioteca de Estructuras de Guion
+
+## Propósito
+
+Este repositorio contiene una colección de estructuras de guion clasificadas por objetivo estratégico.
+
+Las estructuras NO deben utilizarse de forma aleatoria.
+
+Antes de seleccionar una estructura, primero debe identificarse el objetivo principal de la pieza de contenido.
+
+---
+
+# Principio Fundamental
+
+No existe una estructura universal.
+
+Cada estructura fue diseñada para resolver un problema específico de comunicación.
+
+Por lo tanto:
+
+1. Identificar el objetivo.
+2. Seleccionar la categoría correcta.
+3. Elegir la estructura adecuada.
+4. Adaptarla al formato de contenido.
+5. Construir el guion.
+
+---
+
+# Flujo de Decisión
+
+```text
+Objetivo
+↓
+Categoría
+↓
+Estructura
+↓
+Formato
+↓
+Guion
+```
+
+---
+
+# Categorías Disponibles
+
+## estructuras copywriting
+
+Utilizar cuando el objetivo principal sea persuadir.
+
+Casos de uso:
+
+* Venta
+* Conversión
+* Captación de leads
+* Promoción de productos
+* Presentación de ofertas
+
+Objetivo principal:
+
+```text
+Mover a una persona hacia una acción.
+```
+
+Ejemplos:
+
+* AIDA
+* PAS
+* PASTOR
+* QUEST
+* FAB
+
+---
+
+## Estructuras guiones Storytelling
+
+Utilizar cuando el objetivo principal sea generar conexión emocional.
+
+Casos de uso:
+
+* Historias personales
+* Casos de éxito
+* Aprendizajes
+* Inspiración
+* Construcción de autoridad
+
+Objetivo principal:
+
+```text
+Generar identificación y recordación.
+```
+
+Ejemplos:
+
+* StoryBrand
+* Hero's Journey
+* Story Circle
+* Pixar Framework
+* Situación → Deseo → Conflicto → Cambio → Resultado
+
+---
+
+## Estructura guiones marca personal
+
+Utilizar cuando el objetivo principal sea construir autoridad y posicionamiento.
+
+Casos de uso:
+
+* Demostrar experiencia
+* Construir credibilidad
+* Compartir aprendizajes
+* Posicionarse como referente
+* Crear confianza
+
+Objetivo principal:
+
+```text
+Modificar la percepción que la audiencia tiene del creador.
+```
+
+Ejemplos:
+
+* Authority Framework
+* Contrarian Positioning
+* Mission Framework
+* Signature Method
+* Public Learning Framework
+
+---
+
+## Estructura guiones viralidad
+
+Utilizar cuando el objetivo principal sea maximizar alcance y retención.
+
+Casos de uso:
+
+* Reels
+* Shorts
+* TikTok
+* Contenido de descubrimiento
+* Contenido para audiencias frías
+
+Objetivo principal:
+
+```text
+Capturar atención y mantener visualización.
+```
+
+Ejemplos:
+
+* Open Loop
+* Curiosity Gap
+* Pattern Interrupt
+* Story → Lesson
+* Hook → Curiosity → Payoff
+
+---
+
+# Selección Según Objetivo
+
+## Si el objetivo es viralidad
+
+Priorizar:
+
+```text
+Estructura guiones viralidad
+```
+
+Puede combinarse con:
+
+```text
+Storytelling
+```
+
+Ejemplo:
+
+```text
+Curiosity Gap
++
+Story Circle
+```
+
+---
+
+## Si el objetivo es educación
+
+Priorizar:
+
+```text
+Storytelling
++
+Marca Personal
+```
+
+Ejemplo:
+
+```text
+StoryBrand
++
+Authority Framework
+```
+
+---
+
+## Si el objetivo es nutrición de audiencia
+
+Priorizar:
+
+```text
+Storytelling
++
+Marca Personal
+```
+
+Objetivo:
+
+```text
+Generar confianza.
+```
+
+---
+
+## Si el objetivo es posicionamiento
+
+Priorizar:
+
+```text
+Marca Personal
+```
+
+Puede complementarse con:
+
+```text
+Storytelling
+```
+
+---
+
+## Si el objetivo es conversión
+
+Priorizar:
+
+```text
+Copywriting
+```
+
+Puede complementarse con:
+
+```text
+Storytelling
+```
+
+Ejemplo:
+
+```text
+Story Circle
++
+PAS
+```
+
+---
+
+# Adaptación por Formato
+
+Las estructuras son independientes del formato.
+
+Una misma estructura puede utilizarse en:
+
+* Video corto
+* Video largo
+* Carrusel
+* Historia
+* Post escrito
+* Email
+* Webinar
+
+La IA debe adaptar la profundidad según el formato.
+
+---
+
+## Video Corto
+
+Duración:
+
+```text
+15 a 90 segundos
+```
+
+Recomendación:
+
+* Utilizar una sola estructura principal.
+* Reducir complejidad.
+* Priorizar retención.
+
+Ejemplo:
+
+```text
+Open Loop
++
+Story → Lesson
+```
+
+---
+
+## Video Largo
+
+Duración:
+
+```text
+3 minutos o más
+```
+
+Recomendación:
+
+* Combinar múltiples estructuras.
+* Incorporar storytelling.
+* Incorporar persuasión.
+
+Ejemplo:
+
+```text
+StoryBrand
++
+Authority Framework
++
+PAS
+```
+
+---
+
+## Carrusel
+
+Recomendación:
+
+Convertir cada etapa de la estructura en una diapositiva.
+
+Ejemplo:
+
+```text
+Problema
+↓
+Error
+↓
+Consecuencia
+↓
+Solución
+↓
+CTA
+```
+
+---
+
+## Historias
+
+Recomendación:
+
+Utilizar secuencias simples.
+
+Ejemplo:
+
+```text
+Situación
+↓
+Aprendizaje
+↓
+CTA
+```
+
+---
+
+# Reglas de Uso
+
+## Regla 1
+
+Nunca seleccionar una estructura sin conocer el objetivo.
+
+---
+
+## Regla 2
+
+No usar complejidad innecesaria.
+
+La estructura más simple que logre el objetivo suele ser la mejor.
+
+---
+
+## Regla 3
+
+Es válido combinar estructuras de distintas categorías.
+
+Ejemplo:
+
+```text
+Viralidad
++
+Storytelling
++
+Marca Personal
+```
+
+---
+
+## Regla 4
+
+La estructura debe adaptarse a la audiencia.
+
+No todas las audiencias responden igual.
+
+---
+
+## Regla 5
+
+La estructura es un vehículo.
+
+La claridad del mensaje siempre tiene prioridad sobre el framework.
+
+---
+
+# Fórmula Recomendada
+
+Para contenido de marca personal:
+
+```text
+Framework de Viralidad
++
+Framework de Storytelling
++
+Framework de Marca Personal
+```
+
+Para contenido de conversión:
+
+```text
+Framework de Viralidad
++
+Framework de Storytelling
++
+Framework de Copywriting
+```
+
+Para contenido educativo:
+
+```text
+Framework de Storytelling
++
+Framework de Marca Personal
+```
+
+---
+
+# Resultado Esperado
+
+La IA debe utilizar este repositorio como una biblioteca de selección estratégica.
+
+No debe escoger estructuras por popularidad.
+
+Debe escoger estructuras según:
+
+```text
+Objetivo
+Audiencia
+Formato
+Etapa del embudo
+Resultado esperado
+```
+
+y posteriormente construir el guion utilizando la estructura o combinación de estructuras más adecuada.
