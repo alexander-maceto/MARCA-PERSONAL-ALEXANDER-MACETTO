@@ -17,8 +17,160 @@ Este repositorio reúne el material fuente, la definición de mi avatar, la estr
 
 ## Cómo se usa
 
-1. Los **libros** se guardan en una de las dos bases de referencia:
-   - [`libros_avatar/`](./libros_avatar) → para entender a mi avatar y sus problemas.
-   - [`libros_marca_personal/`](./libros_marca_personal) → para construir mi marca y mi contenido.
-2. De ellos se extraen ideas y resúmenes hacia [`sintesis/`](./sintesis).
-3. Esas ideas, junto con la definición del **avatar** y la **estrategia**, alimentan los **guiones** de contenido.
+# Sistema de Marca Personal
+
+## Propósito
+
+Este repositorio funciona como una base de conocimiento para la construcción, posicionamiento, crecimiento y monetización de una marca personal.
+
+La información está organizada en diferentes áreas que permiten comprender la audiencia, definir estrategias, generar contenido y acumular aprendizajes propios.
+
+Cada carpeta contiene un README específico con instrucciones detalladas sobre su uso.
+
+---
+
+# Estructura del Repositorio
+
+```text
+/
+├── avatar
+├── estrategia
+├── guiones/plantillas
+├── libros_avatar
+├── libros_marca_personal
+├── sintesis
+└── README.md
+```
+
+---
+
+## avatar
+
+Define la audiencia objetivo.
+
+Aquí se encuentra la información relacionada con:
+
+* Problemas
+* Deseos
+* Objetivos
+* Obstáculos
+* Transformaciones buscadas
+
+Pregunta principal:
+
+> ¿Para quién se está creando?
+
+---
+
+## estrategia
+
+Contiene el sistema estratégico de la marca.
+
+Aquí se define:
+
+* Posicionamiento
+* Comunicación
+* Narrativa
+* Enfoque de contenido
+* Principios estratégicos
+
+Pregunta principal:
+
+> ¿Cómo debe comunicarse la marca?
+
+---
+
+## guiones/plantillas
+
+Biblioteca de estructuras y frameworks de contenido.
+
+Incluye recursos relacionados con:
+
+* Copywriting
+* Storytelling
+* Marca personal
+* Viralidad
+
+Pregunta principal:
+
+> ¿Cómo estructurar el mensaje?
+
+---
+
+## libros_avatar
+
+Biblioteca de conocimiento enfocada en comprender mejor la audiencia.
+
+Se utiliza para obtener:
+
+* Ideas
+* Perspectivas
+* Historias
+* Argumentos
+* Aprendizajes aplicables al avatar
+
+Pregunta principal:
+
+> ¿Qué conocimiento puede ayudar a esta audiencia?
+
+---
+
+## libros_marca_personal
+
+Biblioteca estratégica para la construcción de marcas personales.
+
+Se utiliza para:
+
+* Diseñar estrategias
+* Resolver bloqueos
+* Encontrar oportunidades
+* Tomar mejores decisiones
+
+Pregunta principal:
+
+> ¿Qué estrategia tiene más sentido en este contexto?
+
+---
+
+## sintesis
+
+Repositorio de conocimiento propio.
+
+Aquí se almacenan:
+
+* Aprendizajes
+* Conclusiones
+* Sistemas propios
+* Frameworks propios
+* Hallazgos
+* Experimentos
+* Decisiones importantes
+
+Pregunta principal:
+
+> ¿Qué hemos aprendido y validado hasta ahora?
+
+---
+
+# Flujo General
+
+```text
+Avatar
+↓
+Estrategia
+↓
+Conocimiento
+↓
+Contenido
+↓
+Síntesis
+```
+
+---
+
+# Nota
+
+Este repositorio debe entenderse como un sistema conectado.
+
+Cada carpeta cumple una función específica dentro del proceso de construcción de marca personal y debe consultarse según el contexto y la necesidad de la tarea.
+.
