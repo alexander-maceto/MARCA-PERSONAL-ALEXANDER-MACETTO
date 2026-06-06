@@ -1,23 +1,263 @@
-# Libros — Avatar
+# README.md
 
-Esta carpeta contiene libros y documentos fuente en formato `.md` que **me ayudan a entender a mi avatar** y a explorar sus problemas, para crear contenido mucho más preciso que conecte con sus dolores, deseos, dudas y objeciones.
+# Biblioteca de Conocimiento
 
-> Conecta esta carpeta con la definición de mi avatar en [`../avatar`](../avatar).
+## Propósito
 
-## Cómo usar esta carpeta
+Esta carpeta contiene fuentes de conocimiento utilizadas para enriquecer la creación de contenido dentro del ecosistema del proyecto.
 
-Ante cualquier consulta sobre cómo ayudar a mi avatar, **se deben examinar y analizar los archivos `.md` disponibles en esta carpeta (y sus subcarpetas)** para extraer las ideas y conceptos que permitan dar una respuesta adecuada.
+Los documentos contenidos aquí representan conocimiento externo en forma de libros, investigaciones, metodologías, modelos mentales, principios y experiencias.
 
-No se asume una lista fija de documentos: el contenido de la carpeta crece con el tiempo, así que conviene explorar los archivos según el tema de cada consulta.
+Su función no es ser resumidos ni explicados por sí mismos.
 
-## Subcarpetas (según el problema del avatar)
+Su función es aportar materia prima intelectual que posteriormente será transformada en contenido para el avatar utilizando la estrategia definida en el proyecto.
 
-| Subcarpeta | Qué problema del avatar ayuda a entender |
-|---|---|
-| [`psicologia-y-persuasion/`](./psicologia-y-persuasion) | Cómo piensa, decide y se convence; cómo romper sus objeciones. |
-| [`habitos-y-disciplina/`](./habitos-y-disciplina) | Su falta de constancia y la dificultad para empezar y sostener. |
-| [`miedo-y-perfeccionismo/`](./miedo-y-perfeccionismo) | Su miedo al juicio, a exponerse y su perfeccionismo. |
-| [`claridad-y-pensamiento/`](./claridad-y-pensamiento) | Su parálisis por análisis y su necesidad de orden y enfoque. |
+---
+
+# Arquitectura del Sistema
+
+La IA debe entender el proyecto utilizando la siguiente jerarquía:
+
+```text
+AVATAR
+↓
+ESTRATEGIA
+↓
+CONOCIMIENTO
+↓
+CONTENIDO
+```
+
+---
+
+## Nivel 1: Avatar
+
+La carpeta del Avatar es la fuente principal de verdad.
+
+Define:
+
+* A quién se dirige el contenido.
+* Qué problemas tiene la audiencia.
+* Qué desea conseguir.
+* Qué obstáculos enfrenta.
+* Qué transformación busca.
+
+La IA debe consultar primero esta información.
+
+---
+
+## Nivel 2: Estrategia
+
+La carpeta de Estrategia define:
+
+* Posicionamiento.
+* Tipo de contenido.
+* Tono.
+* Narrativa.
+* Frameworks.
+* Sistemas de comunicación.
+* Objetivos del contenido.
+
+La estrategia determina cómo debe comunicarse la información.
+
+---
+
+## Nivel 3: Conocimiento
+
+Esta carpeta contiene las fuentes utilizadas para alimentar la estrategia.
+
+Los documentos aquí presentes proporcionan:
+
+* Ideas.
+* Principios.
+* Perspectivas.
+* Historias.
+* Modelos mentales.
+* Casos de estudio.
+* Aprendizajes.
+* Argumentos.
+
+No son el objetivo final.
+
+Son recursos para fortalecer el contenido.
+
+---
+
+# Orden Obligatorio de Consulta
+
+Antes de utilizar cualquier documento de esta carpeta, la IA debe seguir este orden:
+
+```text
+1. Avatar
+
+2. Estrategia
+
+3. Biblioteca de Conocimiento
+
+4. Creación de Contenido
+```
+
+Nunca debe invertirse este proceso.
+
+---
+
+# Cómo Utilizar Esta Biblioteca
+
+La IA debe consultar esta carpeta únicamente cuando necesite:
+
+* Encontrar nuevas ideas.
+* Profundizar una explicación.
+* Obtener ejemplos.
+* Obtener analogías.
+* Encontrar principios útiles.
+* Encontrar historias aplicables.
+* Descubrir perspectivas diferentes.
+* Construir argumentos más sólidos.
+
+---
+
+# Qué Debe Extraer
+
+La IA debe buscar:
+
+```text
+Principios
+
+Modelos mentales
+
+Aprendizajes
+
+Patrones
+
+Historias
+
+Errores comunes
+
+Métodos
+
+Perspectivas
+
+Contradicciones
+
+Casos prácticos
+```
+
+---
+
+# Qué Debe Ignorar
+
+La IA no debe centrarse en:
+
+```text
+Resumir libros
+
+Repetir capítulos
+
+Explicar autores
+
+Copiar estructuras completas
+
+Generar contenido académico innecesario
+```
+
+La prioridad es siempre la utilidad para el avatar.
+
+---
+
+# Regla de Relevancia
+
+Antes de utilizar cualquier idea encontrada en esta biblioteca, la IA debe preguntarse:
+
+```text
+¿Esto ayuda al avatar?
+
+¿Esto resuelve un problema del avatar?
+
+¿Esto acerca al avatar a su objetivo?
+
+¿Esto encaja con la estrategia definida?
+
+¿Esto puede transformarse en contenido útil?
+```
+
+Si la respuesta es negativa, la información debe descartarse.
+
+---
+
+# Transformación del Conocimiento
+
+La IA no debe trasladar el conocimiento de forma literal.
+
+Debe transformarlo.
+
+Proceso recomendado:
+
+```text
+Conocimiento
+
+↓
+
+Insight
+
+↓
+
+Aplicación al Avatar
+
+↓
+
+Contenido
+```
+
+Ejemplo:
+
+```text
+Principio encontrado en un libro
+
+↓
+
+Insight útil
+
+↓
+
+Aplicación a la construcción de marca personal
+
+↓
+
+Video
+Carrusel
+Historia
+Post
+Email
+```
+
+---
+
+# Criterio de Selección
+
+Cuando existan múltiples ideas posibles, priorizar siempre aquellas que:
+
+```text
+Sean más relevantes para el avatar.
+
+Sean más accionables.
+
+Sean más fáciles de aplicar.
+
+Generen mayor transformación.
+
+Conecten mejor con la estrategia.
+```
+
+---
+
+# Objetivo Final
+
+El propósito de esta biblioteca no es enseñar libros.
+
+El propósito de esta biblioteca es proporcionar conocimiento que permita crear contenido más útil, más profundo y más relevante para el avatar definido en el proyecto.
+
+La IA debe considerar esta carpeta como una fuente de ideas y principios al servicio del Avatar y de la Estrategia, nunca como el punto de partida del proceso de creación.
+
 
 ## Cómo usarlo para crear contenido
 
